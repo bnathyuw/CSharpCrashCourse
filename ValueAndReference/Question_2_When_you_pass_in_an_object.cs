@@ -3,7 +3,7 @@
 namespace ValueAndReference
 {
     [TestFixture]
-    public class When_you_pass_in_an_object
+    public class Question_2_When_you_pass_in_an_object
     {
         private const int ReplaceMe = 0;
 

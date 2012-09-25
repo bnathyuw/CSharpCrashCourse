@@ -3,7 +3,7 @@ using NUnit.Framework;
 namespace ValueAndReference
 {
     [TestFixture]
-    public class When_you_pass_in_a_struct
+    public class Question_3_When_you_pass_in_a_struct
     {
         private const int ReplaceMe = 0;
 

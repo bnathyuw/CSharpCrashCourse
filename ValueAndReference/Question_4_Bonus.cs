@@ -5,7 +5,7 @@ using NUnit.Framework;
 namespace ValueAndReference
 {
     [TestFixture]
-    public class Bonus_question
+    public class Question_4_Bonus
     {
         private readonly List<Widget> _widgetRepository = new List<Widget>();
 

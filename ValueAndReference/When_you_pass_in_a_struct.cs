@@ -14,6 +14,7 @@ namespace ValueAndReference
 
             ActOnArgument(argument);
 
+            // TODO: fill in the expected value
             Assert.IsTrue(argument.Bar == ReplaceMe);
         }
 
@@ -29,6 +30,7 @@ namespace ValueAndReference
 
             ActOnReferenceArgument(ref argument);
 
+            // TODO: fill in the expected value
             Assert.IsTrue(argument.Bar == ReplaceMe);
         }
 
@@ -40,16 +42,17 @@ namespace ValueAndReference
         [Test]
         public void As_an_output_argument()
         {
-            Baz argument;
+            var argument = new Baz(5);
 
             ActOnOutputArgument(out argument);
 
+            // TODO: fill in the expected value
             Assert.IsTrue(argument.Bar == ReplaceMe);
         }
 
         private static void ActOnOutputArgument(out Baz argument)
         {
-            argument = new Baz(5);
+            argument = new Baz(8);
             argument.Bar++;
         }
 

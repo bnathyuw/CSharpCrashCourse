@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="When_you_pass_in_an_integer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="When_you_pass_in_an_object.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

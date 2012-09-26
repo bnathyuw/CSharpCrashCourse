@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FieldsAndProperties", "Fiel
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F19990B0-5006-494F-AE08-5E7CB136706B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarsAndFields", "VarsAndFields\VarsAndFields.csproj", "{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{F19990B0-5006-494F-AE08-5E7CB136706B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F19990B0-5006-494F-AE08-5E7CB136706B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F19990B0-5006-494F-AE08-5E7CB136706B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

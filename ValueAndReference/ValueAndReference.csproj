@@ -40,10 +40,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Question_4_Bonus.cs" />
-    <Compile Include="Question_1_When_you_pass_in_an_integer.cs" />
+    <Compile Include="Question_1_Integer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Question_2_When_you_pass_in_an_object.cs" />
-    <Compile Include="Question_3_When_you_pass_in_a_struct.cs" />
+    <Compile Include="Question_2_Class.cs" />
+    <Compile Include="Question_3_Struct.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

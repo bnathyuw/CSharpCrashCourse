@@ -37,6 +37,10 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Question_6_How_not_to_do_it.cs" />
+    <Compile Include="Question_5_Properties_in_an_interface.cs" />
+    <Compile Include="Question_4_Auto_properties_with_private_setters.cs" />
+    <Compile Include="Question_3_Auto_properties.cs" />
     <Compile Include="Question_2_Properties_with_backing_fields.cs" />
     <Compile Include="Question_1_Bare_fields.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

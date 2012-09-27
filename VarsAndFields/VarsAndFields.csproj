@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Question_1_Class_members.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Question_2_Variables.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

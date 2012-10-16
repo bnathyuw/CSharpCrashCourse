@@ -45,6 +45,7 @@
     <Compile Include="DelegateTests.cs" />
     <Compile Include="FuncTests.cs" />
     <Compile Include="LambdaArgumentTests.cs" />
+    <Compile Include="LambdaBodyTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

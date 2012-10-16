@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueAndReference", "ValueAndReference\ValueAndReference.csproj", "{F3DB63C7-F113-4C06-A8A6-B7452547481A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreatingNewStuff", "CreatingNewStuff\CreatingNewStuff.csproj", "{11ABBFC3-AC8D-4A55-82CD-927C481EB8F4}"
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{F19990B0-5006-494F-AE08-5E7CB136706B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarsAndFields", "VarsAndFields\VarsAndFields.csproj", "{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesFuncsLambdas", "DelegatesFuncsLambdas\DelegatesFuncsLambdas.csproj", "{AF025311-AF90-4478-98FF-1A3D1EB90EC0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,6 +39,10 @@ Global
 		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD394A9C-B66D-42F0-A7D5-416BA2AD3024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -20,6 +20,7 @@ namespace ValueAndReference
 			var savedWidget = _widgetRepository.First();
 
 			// TODO: Why is this a useless assertion?
+			// TODO: How could you make this assertion meaningful?
 			Assert.IsTrue(savedWidget.Price == widgetRequest.Price);
 		}
 	}

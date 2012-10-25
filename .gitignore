@@ -7,3 +7,4 @@ bin
 *ReSharper*
 *.dotCover
 *.dotsettings
+*.ncrunchsolution

@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VarsAndFields", "VarsAndFie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesFuncsLambdas", "DelegatesFuncsLambdas\DelegatesFuncsLambdas.csproj", "{AF025311-AF90-4478-98FF-1A3D1EB90EC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", "{09D24AA3-13B4-44F6-9982-7EA0EEDF5FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{D4880442-631D-4D6C-B45D-0577B8550DD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +47,14 @@ Global
 		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF025311-AF90-4478-98FF-1A3D1EB90EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09D24AA3-13B4-44F6-9982-7EA0EEDF5FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D24AA3-13B4-44F6-9982-7EA0EEDF5FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D24AA3-13B4-44F6-9982-7EA0EEDF5FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D24AA3-13B4-44F6-9982-7EA0EEDF5FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4880442-631D-4D6C-B45D-0577B8550DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4880442-631D-4D6C-B45D-0577B8550DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4880442-631D-4D6C-B45D-0577B8550DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4880442-631D-4D6C-B45D-0577B8550DD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

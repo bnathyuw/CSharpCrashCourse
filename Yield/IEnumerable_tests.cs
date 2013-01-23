@@ -4,7 +4,7 @@ using System.Linq;
 using NUnit.Framework;
 using Rhino.Mocks;
 
-namespace Yield.Tests
+namespace Yield
 {
 	[TestFixture]
 	public class IEnumerable_tests
